@@ -1,0 +1,6 @@
+title: "Yohanes Tjandrawidjaja’s Blog"
+description: "A blog on travel, math, and code – I wonder and I wander."
+author: "johntjandra"
+theme: minima
+plugins:
+  - jekyll-feed 
